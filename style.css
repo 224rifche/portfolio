@@ -485,7 +485,7 @@ footer time {
 }
 
 /* Media Queries pour Responsive */
-@media (max-width: 768px) {
+@media (max-width: 772px) {
     #contact {
         margin: 1rem;
         padding: 1.5rem 1rem;
@@ -550,7 +550,7 @@ footer {
 }
 
 /* Responsive adjustments */
-@media (max-width: 900px) {
+@media (max-width: 968px) {
     nav { width: 95%; }
     nav img { width: 14%; top: 0; }
 
